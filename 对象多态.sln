@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象类", "抽象类\抽�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "矩形面积", "矩形面积\矩形面积.csproj", "{634BA11E-E172-4471-9D5E-7DEB7CB7286E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract_class", "abstract_class\abstract_class.csproj", "{92B12759-95A1-461B-B56E-783885EB0DD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{634BA11E-E172-4471-9D5E-7DEB7CB7286E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{634BA11E-E172-4471-9D5E-7DEB7CB7286E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{634BA11E-E172-4471-9D5E-7DEB7CB7286E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B12759-95A1-461B-B56E-783885EB0DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B12759-95A1-461B-B56E-783885EB0DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B12759-95A1-461B-B56E-783885EB0DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B12759-95A1-461B-B56E-783885EB0DD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
